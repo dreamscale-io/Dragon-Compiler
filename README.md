@@ -1,9 +1,9 @@
-# ObjectScript-Compiler
+# Dragon-Compiler
 ![Penrose](https://images-na.ssl-images-amazon.com/images/I/41LxH9EJnFL._AC_SL1000_.jpg)
 
 ## Specification
 
-We will create a simple cli compiler with the rust programming language. The objective of this project is to help answer the question of, Is there a way to universal create and share data models. Alot of attention has been focused on OpenAPI standards which is awesome. This project provides a key part to the solution set. Here we aim to be able to allow our compiler using ObjectScript. 
+We will create a simple cli  for Dragon with help of rust programming and assembly programming language. Knowledge of how to operating systems work, and how to program one is a required prerequiste. Any programmer is capable of learning how to do this with little patience. The objective of this project is to help answer the question of, Is there a way to universal create and share data models through dynamically typed imperative statements.. Alot of attention has been focused on OpenAPI standards which is awesome. This project provides a key part to the solution set. Here we aim to be able to allow our compiler using Dragon. 
 
 ## First Principals
 Our first example will create a happy object compiler, with the pretense that we always write code correctly the first time ;). 
